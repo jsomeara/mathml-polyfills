@@ -1,0 +1,9 @@
+{
+    "name": "mathml-polyfills",
+    "version": "1.0.0",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/jsomeara/mathml-polyfills.git"
+    },
+    "author": "w3c"
+  }
